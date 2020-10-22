@@ -2,6 +2,7 @@
   "name": "npm-7-bug-peer-dev",
   "version": "1.0.0",
   "description": "",
+  "private": true,
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
